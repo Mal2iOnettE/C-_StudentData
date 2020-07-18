@@ -1,0 +1,10 @@
+C:\Users\Attachai khum-ai\Desktop\WORK CODE\C#\DBStudent\DBStudent\bin\Debug\DBStudents.mdb
+C:\Users\Attachai khum-ai\Desktop\WORK CODE\C#\DBStudent\DBStudent\bin\Debug\DBStudent.exe.config
+C:\Users\Attachai khum-ai\Desktop\WORK CODE\C#\DBStudent\DBStudent\bin\Debug\DBStudent.exe
+C:\Users\Attachai khum-ai\Desktop\WORK CODE\C#\DBStudent\DBStudent\bin\Debug\DBStudent.pdb
+C:\Users\Attachai khum-ai\Desktop\WORK CODE\C#\DBStudent\DBStudent\obj\Debug\DBStudent.csprojAssemblyReference.cache
+C:\Users\Attachai khum-ai\Desktop\WORK CODE\C#\DBStudent\DBStudent\obj\Debug\DBStudent.Form1.resources
+C:\Users\Attachai khum-ai\Desktop\WORK CODE\C#\DBStudent\DBStudent\obj\Debug\DBStudent.Properties.Resources.resources
+C:\Users\Attachai khum-ai\Desktop\WORK CODE\C#\DBStudent\DBStudent\obj\Debug\DBStudent.csproj.GenerateResource.cache
+C:\Users\Attachai khum-ai\Desktop\WORK CODE\C#\DBStudent\DBStudent\obj\Debug\DBStudent.exe
+C:\Users\Attachai khum-ai\Desktop\WORK CODE\C#\DBStudent\DBStudent\obj\Debug\DBStudent.pdb
